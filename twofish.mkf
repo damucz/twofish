@@ -1,0 +1,19 @@
+files
+{
+	[]
+	(source)
+	twofish.c
+	twofish.h
+	twofish_cfb.c
+}
+
+includepaths
+{
+	.
+	source
+}
+
+options
+{
+	#cflags="-std=gnu++0x"
+}

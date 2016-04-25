@@ -1,0 +1,9 @@
+subproject
+{
+	twofish
+}
+
+files
+{
+	twofish_test.cpp
+}
